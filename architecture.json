@@ -1,0 +1,72 @@
+{
+  "book_id": "medieval-arabic-gothic-local-universal",
+  "title": "The Hiss of Bone-Dust",
+  "tagline": "In a city built on forgotten bones, a scribe's beautiful lie unveils a secret history that threatens to consume both his soul and the world.",
+  "target_words": 73714,
+  "actual_words": 73714,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Weight of Buried History",
+    "Knowledge as Power and Corruption",
+    "The Claustrophobia of Secrets",
+    "The Erosion of Faith by Fear"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Hiss of Bone-Dust",
+      "words": 6701
+    },
+    {
+      "ch": 2,
+      "title": "Thump-Scrape in the Dark",
+      "words": 6701
+    },
+    {
+      "ch": 3,
+      "title": "The Librarian of Dust and Memory",
+      "words": 6701
+    },
+    {
+      "ch": 4,
+      "title": "The City's Black Bile",
+      "words": 6701
+    },
+    {
+      "ch": 5,
+      "title": "Where the City Frays",
+      "words": 6701
+    },
+    {
+      "ch": 6,
+      "title": "The Gallery of Silent Desert",
+      "words": 6701
+    },
+    {
+      "ch": 7,
+      "title": "A Light That Reveals",
+      "words": 6701
+    },
+    {
+      "ch": 8,
+      "title": "The Weeping Glass",
+      "words": 6701
+    },
+    {
+      "ch": 9,
+      "title": "A Hammer of White Brass",
+      "words": 6701
+    },
+    {
+      "ch": 10,
+      "title": "Breath of the Tomb",
+      "words": 6701
+    },
+    {
+      "ch": 11,
+      "title": "The Plenum of Patient Things",
+      "words": 6701
+    }
+  ]
+}
